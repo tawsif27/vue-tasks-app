@@ -13,3 +13,6 @@ pnpm install
 ```sh
 pnpm run dev
 ```
+
+https://youtu.be/5oKpoqmUj64?si=Qd8SsNU90nRgL70P
+
